@@ -1,0 +1,20 @@
+price_in_aud
+year:2022,2023,2021,2020,2018,2019
+engine_power_hp
+torque_nm
+no_of_cylinders
+gear_box_speed
+kerb_weight_lbs
+mileage_in_city_mpg
+mileage_on_highway_mpg
+seating_capacity
+fuel_tank_capacity_litres
+no_of_doors
+brand:'Honda','BMW','Lexus','Hyundai','Toyota','KIA','Nissan','Audi','Chevrolet','Ford','Mercedes','Porsche','Infiniti','Jaguar','Cadillac','Land Rover','Jeep','Volkswagen','Maserati','Subaru','Dodge','Mazda','Chrysler','Aston Martin','Ferrari','Lamborghini','Bentley','Rolls Royce','Mclaren','Lincoln','Alfa Romeo','Volvo','MINI','Fiat','Acura','Genesis','Buick','GMC','Tesla','Renault','Suzuki','MG','Skoda','JAC','Changan'
+made_in:'Japan','Germany','Toledo North','United States','Canada','South Korea','South Korean','China','United Kingdom','Italy','Maranello','India','Czech Republic'
+body_type:'sedan','suv','hatchback','coupe','convertible','van','truck','wagon','minivan','roadster'
+transmission_type:'manual','automatic'
+steering_type:'power','rack & pinion','electric','automatic','electric power steering','power rack & pinion','electric rack & pinion','re-circulating ball','power assisted','re-circulating bal'
+front_brake:'ventilated disc','disc','abs','carbon ceramic'
+rear_brake:'drum','disc','abs','ventilated disc','carbon ceramic'
+fuel_type:'diesel','gasoline','premium','hybrid','electric'
